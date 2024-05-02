@@ -9,6 +9,6 @@ Atualmente com interface de linha de comando, pretendo refazer p GUI.
 O Sistema tem como objetivo gerir uma biblioteca, através de funções para:
 adicionar membros e livros;
 emprestar e devolver livros;
-pesquisar livros por id, nome ou autor; (***ADD CATEGORIA***)
+pesquisar livros por id, nome ou autor (***ADD CATEGORIA***);
 consultar membros pelo id ou nome;
-listar historico de livros emprestados (***DETALHAR ++***)
+listar historico de livros emprestados (***DETALHAR ++***);
