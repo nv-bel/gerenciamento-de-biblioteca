@@ -1,4 +1,4 @@
-# gerenciamento-de-biblioteca
+# Gerenciamento de Biblioteca
 Sistema de Gerenciamento de Biblioteca - Python
 
 
